@@ -1,0 +1,10 @@
+El desarrollo de este proyecto de automatización ha sido una experiencia invaluable que me ha permitido
+aplicar y consolidar nuevos aprendizajes, durante su desarrollo, he ejecutado
+nuevos conocimientos, reforzado la comprensión de cómo construir un proyecto de automatización de
+pruebas desde cero y aplicar un enfoque organizativo eficiente, también he mejorado mis
+habilidades de investigación, lo que me ha permitido abordar problemas de manera más eficiente, esta
+experiencia ha representado una valiosa oportunidad para mi crecimiento y desarrollo profesional en
+el ámbito de la calidad de software y la automatización de pruebas, el uso de herramientas como Java,
+Cucumber, Karate y Selenium, y la implementación de un patrón de diseño POM, a su vez logré mejorar mis
+habilidades de investigación, haciéndome alguien más metódico, y ayudandome a ser mejor en el campo de la
+calidad de software y la automatización de pruebas.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/devsu-prueba-testing.iml" filepath="$PROJECT_DIR$/.idea/devsu-prueba-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petstore-api-testing/petstore-api-testing.iml" filepath="$PROJECT_DIR$/petstore-api-testing/petstore-api-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saucedemo-e2e-testing/saucedemo-e2e-testing.iml" filepath="$PROJECT_DIR$/saucedemo-e2e-testing/saucedemo-e2e-testing.iml" />
+    </modules>
+  </component>
+</project>
